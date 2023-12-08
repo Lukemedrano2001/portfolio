@@ -13,13 +13,13 @@ Bem-vindo ao meu portfólio! Este projeto mostra minhas skills, projetos, educa�
 
 
 ## Introdução
-Meu Portfólio é um aplicativo React.js que serve como um portfólio online para mostrar minhas skills, projetos, educação, e oferece uma maneira de entrar em contato comigo, além de poder baixar o meu currículo. 
+Meu Portfólio é um aplicativo React.js que serve como um portfólio online para exibir minhas skills, projetos, educação, e oferece uma maneira de entrar em contato comigo, além de poder baixar o meu currículo. 
 
 
 ## Características
 - Sobre: Uma visão geral da minha educação, skills.
 - Projetos: Uma coleção de projetos com descrições, imagens e links.
-- Skills: Uma lista de minhas skilss e proficiências técnicas.
+- Skills: Uma lista das minhas skills e proficiências técnicas.
 - Currículo: Um link para download do meu currículo.
 - Contato: Um formulário de contato para me enviar mensagens ou dúvidas.
 
