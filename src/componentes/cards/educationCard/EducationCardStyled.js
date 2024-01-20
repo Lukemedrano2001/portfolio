@@ -111,6 +111,7 @@ export const Name = styled.div`
 `;
 
 
+<<<<<<< HEAD
 export const Curso = styled.div`
     font-size: 14px;
     font-weight: 500;
@@ -121,6 +122,8 @@ export const Curso = styled.div`
 `
 
 
+=======
+>>>>>>> e2bce12f76057b0cd2a69243e60fa43f3fb88da1
 export const Degree = styled.div`
     font-size: 14px;
     font-weight: 500;

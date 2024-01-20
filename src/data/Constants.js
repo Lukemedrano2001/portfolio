@@ -10,8 +10,6 @@ export const Bio = {
     github: "https://github.com/Lukemedrano2001?tab=repositories",
     resume:
         "https://drive.google.com/file/d/1wRie6BADqoJCmxkRKgrVgCKPCluTBYtY/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/guilhermemedrano/",
-    portfolio: "https://lukemedrano2001.github.io/portfolio/"
 };
 
 

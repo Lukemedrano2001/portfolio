@@ -44,7 +44,11 @@ const HeroSection = () => {
                             </ Span>
                         </ TextLoop>
                         <SubTitle>{ Bio.description }</ SubTitle>
+<<<<<<< HEAD
                         <ResumeButton href={ Bio.resume } target='display'>Visualizar Currículo</ ResumeButton>
+=======
+                        <ResumeButton href={ Bio.resume } target='display'>Baixar Currículo</ ResumeButton>
+>>>>>>> e2bce12f76057b0cd2a69243e60fa43f3fb88da1
                     </ HeroLeftContainer>
                     <HeroRightContainer id="Right">
                         <Img src={ HeroImg } alt="hero-image" />
