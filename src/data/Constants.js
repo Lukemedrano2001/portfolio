@@ -8,8 +8,8 @@ export const Bio = {
     description:
         "Estou dando os primeiros passos no mundo da Programação. Atualmente, estou explorando as possibilidades do desenvolvimento backend e me dedicando a aprimorar as minhas habilidades em Java, JavaScript, Node.js, ReactJS.",
     github: "https://github.com/Lukemedrano2001?tab=repositories",
-    resume:
-        "https://drive.google.com/file/d/1he1XyJrIl_2gP4UDjla7gnListzW0Dj6/view?usp=drive_link",
+    linkedin: "https://www.linkedin.com/in/guilhermemedrano",
+    resume: "https://drive.google.com/file/d/1he1XyJrIl_2gP4UDjla7gnListzW0Dj6/view?usp=drive_link",
 };
 
 
